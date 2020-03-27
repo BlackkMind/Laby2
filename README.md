@@ -22,5 +22,5 @@ Pisząc ten program wykorzystywałem wiedzą nabytą podczas nauki innych język
 
 
 
-Naprawdę nie wiem w jak mogę jeszcze opisać ten program. 
-Mam nadzieję że ten opis będzie wystarczający :)
+Naprawdę nie wiem w jak mogę jeszcze opisać ten program.Opis ten robiłem na szybko ponieważ całkowicie pochłoneła mnie nauka programu ADAMS.
+Mam nadzieję że ten opis będzie wystarczający jeżeli nie postaram się go uzupełnić o brakujące informacj:) .
